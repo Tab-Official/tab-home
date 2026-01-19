@@ -6,10 +6,8 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 import "swiper/css/autoplay";
 import { Navigation } from "swiper";
-import data_2022 from "../api/2022TAB_semina.json";
-import { Link, useLocation, useParams } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 import Header from "../components/Header";
-import data_2023 from "../api/2023TAB_semina.json";
 
 const Item = tw.div`
     flex
