@@ -1,0 +1,124 @@
+{
+  "year": 2024,
+  "programs": [
+    {
+      "title": "Algorithm Study",
+      "intro": "자료구조와 알고리즘의 기초를 다질 시간!",
+      "goal": "백준 문제 풀이를 통해 알고리즘 실력을 향상하고, 효율적인 코드 작성법을 익히자",
+      "period": "2024.03.01 ~ 2024.06.01",
+      "content": "매주 특정 알고리즘 주제를 선정하여 백준 문제를 풀이 (예: 정렬, DP, 그래프 탐색 등)\n각자 문제를 풀고 코드 리뷰를 통해 다양한 접근법 공유 및 최적화 연습\n시간 복잡도 분석을 통해 효율적인 알고리즘 작성 습관 기르기\n필요한 경우 팀별 페어 프로그래밍을 진행하여 문제 해결 방식 논의\n스터디 후반부에는 코딩 테스트 대비 실전 모의고사 진행",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B7.png?alt=media&token=9f11d1a9-bb18-499d-8ecb-9eddda9e1297",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8C%E1%85%B3%E1%86%B72.jpeg?alt=media&token=6dbf5f2d-6614-4ada-b8e3-966b85866904"
+    ]
+    },
+    {
+      "title": "AIphoria (Computer Vision Study)",
+      "intro": "CNN부터 최신 논문 연구까지, Computer Vision의 핵심을 탐구하는 스터디",
+      "goal": "CNN 및 신경망 아키텍처 학습 및 실습\n논문 리뷰 및 구현을 통한 최신 기술 탐색\nML 실무 지식 습득 및 프로젝트 적용",
+      "period": "2024.03.23 ~ 2024.06.03",
+      "content": "CNN 기본 개념 및 심층 신경망 아키텍처 학습\nCNN과 LSTM 결합 및 하이브리드 모델 연구\nPyTorch를 활용한 딥러닝 프로젝트 실습\nU-Net, U-Map, CAM 등 논문 리뷰 및 구현\nSK ML 엔지니어와 주간 세미나 및 연구 공유",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/ai%201%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%B5.png?alt=media&token=b0e9b4ef-5ba0-44f0-869b-4bfe8ada6921"
+      ]
+    },
+    {
+      "title": "신입생 Web 개발 입문하기",
+      "intro": "네? web을 만들어오라고요?",
+      "goal": "html, css, js를 차근차근 공부하면서 웹사이트 만들기",
+      "period": "2024.04.01 ~ 2024.06.03",
+      "content": "생활코딩 html, css 동영상을 통해서 공부하기\nplaylist, google 사진을 html과 css를 이용해 똑같이 만들어보기\n노마드 코더를 이용한 js스터디\n바닐라js로 크롬 앱 만들기\n마지막은 챌린지 진행까지!!",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A2%E1%86%BC1.jpeg?alt=media&token=8bae29df-cf47-46a3-86ac-ab587126f032",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A2%E1%86%BC2.jpeg?alt=media&token=8d208086-c2a2-4359-a4c3-dcdc479f7064",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A2%E1%86%BC3.jpeg?alt=media&token=a453a4ab-73d4-4ffe-aa35-973da08fcc1e",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A2%E1%86%BC4.png?alt=media&token=a30d205a-bf04-40a3-a1a7-be924b8e318a",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%89%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%89%E1%85%A2%E1%86%BC5.png?alt=media&token=72e51d36-bb51-47dc-802c-266304186826"
+      ]
+    },
+    {
+      "title": "Frontend Study (React + TypeScript)",
+      "intro": "React와 TypeScript를 활용하여 안정적이고 효율적인 프론트엔드 개발 역량을 키우는 스터디",
+      "goal": "Udemy 강의 수강 및 실습을 통해 TypeScript와 React 실무 역량 강화\n프론트엔드 최신 기술과 라이브러리를 공유하며 실전 적용 능력 향상\n정기적인 코드 리뷰와 피드백을 통한 협업 경험 축적",
+      "period": "2024.09.09 ~ 2024.12.22",
+      "content": "매주 정해진 분량의 Udemy 강의 수강 및 실습 진행\n학습한 내용을 블로그에 정리하여 공유\nTAB 학회 디스코드에서 주간 회의 및 코드 리뷰 (매주 월요일 오후 9시)\nTIL (Today I Learned) 작성 및 피드백 진행\n프론트엔드 개발에 유용한 라이브러리와 기술 공유 및 토론",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A5%E1%86%AB%E1%84%90%E1%85%B31.png?alt=media&token=b1b9025e-0ca5-4bab-92ea-07eba1834c42",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A5%E1%86%AB%E1%84%90%E1%85%B32.png?alt=media&token=dcc91557-87ad-4138-b14c-041a1908011d",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%91%E1%85%B3%E1%84%85%E1%85%A5%E1%86%AB%E1%84%90%E1%85%B33.png?alt=media&token=d97a3aa9-9959-4fa2-924d-8bdd5155a966"
+      ]
+    },
+    {
+      "title": "🥭망고 Study",
+      "intro": "Node.js를 이용해 웹을 효율적으로 개발해보자!",
+      "goal": "js, api, MySQL, 서버에 대해 배우고 웹의 작동 원리를 이해해보자",
+      "period": "2024.09.09 ~ 2024.12.02",
+      "content": "Node.js의 기초부터 시작해 JavaScript 문법 복습과 실습을 통해 웹 개발 기초를 쌓기. 서버와 MySQL을 활용하여 데이터베이스와 연동하는 방법을 배우고, ERD 설계와 API 문서 작성 실습을 진행. 마지막에는 실습환경 설정 후 웹서버 개발을 통해 실제 개발 경험을 쌓기.",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%86%E1%85%A1%E1%86%BC%E1%84%80%E1%85%A91.png?alt=media&token=3a555cbf-f8fa-48f1-8251-9645a1c866b3",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%86%E1%85%A1%E1%86%BC%E1%84%80%E1%85%A92.png?alt=media&token=547207e2-7b3f-4f24-9f82-86b72e80616b",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%86%E1%85%A1%E1%86%BC%E1%84%80%E1%85%A93.png?alt=media&token=1b491988-7db3-4ee1-b0d7-05024be3bcc7",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%86%E1%85%A1%E1%86%BC%E1%84%80%E1%85%A94.png?alt=media&token=85f2e770-cb89-4d3b-a4c7-11c0e55f09e4"
+      ]
+    },
+    {
+      "title": "Spring Study",
+      "intro": "요즘은 스프링부트가 대세라던데?",
+      "goal": "JPA + OAuth + JWT + AWS와 배우는 스프링 부트 3 JAVA 백엔드 입문하자",
+      "period": "2024.09.30 ~ 2024.12.02",
+      "content": "Ot: 객체지향프로그램(oop)란?\n 인프런 강의를 수강하며 회원 예제 홈페이지 만들기\n 회원가입, 로그인 기능이 있으며 글을 남길 수 있는 블로그 구현해보기",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%BC1.jpeg?alt=media&token=f68b716f-d0ca-4860-9d3c-9dfffd932071",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%BC2.png?alt=media&token=40fe6c17-cca0-4245-8464-2caefc291efd",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%BC3.png?alt=media&token=0bb85f9b-f354-4083-99f9-f0fb62150e70"
+      ]
+    },
+    {
+      "title": "USB (Unity Study Bus)",
+      "intro": "지식을 담는 USB처럼 게임 지식도 효율적이고 쉽게 담아보고자 개설한 스터디입니다.",
+      "goal": "게임 개발에 필요한 기본적 마음가짐을 함양하고 유니티 프로그램과 이에 관한 코딩 언어를 알아보며 최종적으로 재미있는 게임 개발 및 지속 발전이 가능한 개발자를 함양한다.",
+      "period": "2024.09.28 ~ 2024.12.07",
+      "content": "2D 형식의 게임 제작\n기본적 오브젝트의 움직임, 스크립트와의 연결\n2D 플랫포머 제작 및 빌드",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%80%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B71.png?alt=media&token=8b7ab8c8-3a9a-49e1-b451-4f27fb4f9767",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%80%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B72.png?alt=media&token=4e2018f3-b118-4e54-83e6-c126918542b7",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%80%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B73.png?alt=media&token=524fc0fb-e3e3-4f31-bd90-53bfe8ef74f0",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%80%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%B74.png?alt=media&token=b77c8fdf-df4f-4333-8fe7-fa8fa7dd8ebf"
+    ]
+    },
+    {
+      "title": "Security Study",
+      "intro": "보안과 해킹에 관심 있는 초심자를 위한 스터디로, 리눅스 기초부터 웹 해킹 실습까지 진행",
+      "goal": "Linux 기본 명령어 학습 및 활용\nKali Linux를 이용한 웹 해킹 실습 경험 쌓기",
+      "period": "2024.09.16 ~ 2024.12.05",
+      "content": "academy.segfaulthub의 리눅스 기초 강의 학습\n유데미 ‘화이트해커가 되기 위한 8가지 웹 해킹 기술’ 강의 실습\n매주 학습한 내용 블로그 정리 및 발표\n스터디 마지막에 문제 풀이 및 출제 진행\n모르는 내용은 함께 토론하며 해결",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A1%E1%86%AB1.png?alt=media&token=261f06c0-772a-4299-8b72-16ccb2b9e7ee",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A1%E1%86%AB2.png?alt=media&token=e2791fab-6f2e-476d-a86e-5f7626eda48d",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A1%E1%86%AB3.png?alt=media&token=ef8928ee-350a-4978-a561-18971c17edcd"
+      ]
+    },
+    {
+      "title": "Data Analysis Study",
+      "intro": "Python을 활용하여 데이터 마이닝과 예측 분석 기법을 학습하는 스터디",
+      "goal": "데이터 분석, 데이터 마이닝, 머신러닝 개념 이해\n데이터 시각화, 차원 축소, 예측 성능 평가 능력 향상\n실제 데이터를 활용하여 유의미한 분석 결과 도출",
+      "period": "2024.09.19 ~ 2024.12.07",
+      "content": "‘비즈니스 애널리틱스를 위한 데이터 마이닝’ 교재를 활용하여 개념 학습\n부산대 온라인 강의를 통해 실습 기초 다지기\n관심 있는 분야의 데이터를 직접 수집 및 분석하여 인사이트 도출",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8.jpeg?alt=media&token=e790a1a1-ab79-4933-8977-ee2543ef4990"
+      ]
+    },
+    {
+      "title": "AI 입문하기",
+      "intro": "어떻게 시작해야 할지 막막한 AI? 함께 시작해보자!",
+      "goal": "데이터 전처리부터 예측 및 분류 모델 활용까지 경험하기",
+      "period": "2024.09.09 ~ 2024.12.20",
+      "content": "Python을 활용한 데이터 분석 기초 학습\nNumpy, Pandas를 이용한 데이터 처리 및 시각화\n타이타닉 데이터셋을 활용한 데이터 전처리 실습\n머신러닝 기초 모델(Decision Tree, Ensemble, Classification) 실습\n회귀 및 군집 분석을 통한 데이터 인사이트 도출\n각자 학습한 내용을 Notion에 정리하고 대면 스터디에서 발표 및 토론",
+      "imgSrc": [
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/ai%202%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%B5.png?alt=media&token=a2e3e0a3-ae6d-4dae-af7f-4d0816ff1556",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/ai%202%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%B5%202.png?alt=media&token=21bf4309-c0d8-47f9-a0e3-d4409b490543",
+        "https://firebasestorage.googleapis.com/v0/b/tab-website-a8d1c.firebasestorage.app/o/ai%202%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%B5%203.png?alt=media&token=1a0bda6c-250d-4f46-aadb-132da8a301c1"
+      ]
+    }
+  ]
+}
