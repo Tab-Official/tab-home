@@ -15,8 +15,8 @@ function FAQ() {
       <p className="text-xs sm:text-base font-normal mt-3">
         궁금하신 점이 있다면 아래의 연락처 혹은 오픈카톡으로 문의내용 남겨주시면
         답변해드리겠습니다.<br /><br />
-        <Link to="https://open.kakao.com/o/s9qqFWeh" className=" hover:text-white hover:bg-yellow-400 text-yellow-400 p-2 rounded-3xl border-2 border-yellow-400">오픈채팅으로 문의</Link>
-        <p className="mt-5">학회장 남하원 010-2600-9053</p>
+        <Link to="https://open.kakao.com/o/g05Lidei" className=" hover:text-white hover:bg-yellow-400 text-yellow-400 p-2 rounded-3xl border-2 border-yellow-400">오픈채팅으로 문의</Link>
+        <p className="mt-5">학회장 정병주 010-5440-9130</p>
       </p>
       <div className="mt-10 space-y-5 text-xs sm:text-base">
         <details>
@@ -48,7 +48,7 @@ function FAQ() {
         </details>
         <details>
           <summary>선발 인원이 몇 명인가요? </summary>
-          <P> 12명 내외 선발 예정입니다.  </P>
+          <P> 12~15명 선발 예정입니다.  </P>
         </details>
         <details>
           <summary>학회에 들어가면 다른 동아리 활동이나 대외활동을 병행하기 힘들진 않을까 걱정돼요.</summary>
