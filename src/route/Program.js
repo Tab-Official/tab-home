@@ -5,10 +5,11 @@ import Header from "../components/Header";
 import ProgramItem from "../components/program/ProgramItem";
 import data_2023 from "../api/2023TAB_semina.json";
 import data_2024 from "../api/2024TAB_semina.json";
+import data_2025 from "../api/2025TAB_semina.json";
 import { useState } from "react";
 
 export default function Program() {
-  const [year, setYear] = useState(2024);
+  const [year, setYear] = useState(2025);
   function getData(year) {
     switch (year) {
       case 2022:
@@ -17,6 +18,8 @@ export default function Program() {
         return data_2023;
       case 2024:
         return data_2024;
+      case 2025:
+        return data_2025;
       default:
         setYear(2022);
         return data_2022;
@@ -41,7 +44,7 @@ export default function Program() {
           다양한 스터디, 세미나가 준비되어있습니다.
         </div>
         <div className="flex  w-24">
-          {[2022, 2023, 2024].map((i) => (
+          {[2022, 2023, 2024, 2025].map((i) => (
             <div
               onClick={() => onClick(i)}
               className="cursor-pointer rounded-full text-lg p-2  font-bold hover:text-xl transition-all pb-3"

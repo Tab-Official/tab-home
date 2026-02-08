@@ -16,7 +16,7 @@ function TabPhoto() {
         navigation
         onSwiper={(swiper) => console.log(swiper)}
       >
-        {Array(24).fill(0).map((_, i) => 23 - i).map((i) => (
+        {Array(37).fill(0).map((_, i) => 36 - i).map((i) => (
           <SwiperSlide>
             <img alt={`TabAlbum_${i}`} className="h-96 object-contain" src={`TabAlbum/${i}.jpg`}></img>
           </SwiperSlide>
